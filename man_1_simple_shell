@@ -1,7 +1,7 @@
 B.\"Manpage for simple shell
 .\"Created by Victor Nathaniel and Olamide Olasupo
 
-.TH SODASH 1 "May 2023" "Holberton School" "SODA SHELL - Simple Shell man page"
+.TH SODASH 1 "May 2023" "Alx Africa" "SODA SHELL - Simple Shell man page"
 
 .SH NAME
 sodash\fR \- simple UNIX command interpreter
